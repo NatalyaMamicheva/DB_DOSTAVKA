@@ -1,4 +1,4 @@
-# DB_dostavka
+# DB_dostavka MySQL
 
 
 База данных dostavka предназначена для автоматизации работы кафе.
